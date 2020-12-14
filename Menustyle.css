@@ -1,0 +1,29 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.Menustyle{
+    width: 100%;
+    height: 100px;
+    background-color: #4c88b0;
+    color: white;
+}
+
+.Menustyle ul{
+    height: 100px;
+    display: flex;
+    justify-content: space-around;
+    align-content: right;
+}
+
+
+.Menustyle ul li{
+    list-style: none;
+    text-transform: uppercase;
+    color: white;
+}
+
+.Menustyle ul li a{
+    color: rgba(247, 11, 11, 0.568);
+}
